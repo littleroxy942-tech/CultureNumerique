@@ -7,7 +7,7 @@ La fonction principale du projet est d'afficher de salutation personalisé.
 
 ## Get started
 
-Pour utiliser le projet, cloner le repo et builder le ptojet.
+Pour utiliser le projet, cloner le repo et builder le projet.
 
 ### Lancer le projet en local
 Builder le projet sous votre IDE de préference pour Java (par exemple NetBeans) et lancer le projet. 
